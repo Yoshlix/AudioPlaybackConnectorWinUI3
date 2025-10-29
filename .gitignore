@@ -340,3 +340,10 @@ ASALocalRun/
 healthchecksdb
 
 translate/generated
+
+# WinUI3 / .NET specific
+AudioPlaybackConnectorWinUI3/bin/
+AudioPlaybackConnectorWinUI3/obj/
+*.user
+*.suo
+.vs/
